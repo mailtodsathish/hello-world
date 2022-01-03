@@ -46,7 +46,7 @@ Phone :
 <input type="text" name="country code"  value="+91" size="2"/> 
 <input type="text" name="phone" size="10"/> <br> <br>
 <input type="text" name="country code" value="+91" size="2"/>
-<input type="text" name="Home Phone" size="10"/> <br> <br>
+<input type="text" name="HomePhone" size="10"/> <br> <br>
 Address
 <br>
 <textarea cols="80" rows="5" value="address">
